@@ -36,4 +36,5 @@ Run queries.sql to explore the analysis
 or you can see it in attach file!
 
 💬 Note: This project was primarily for practice, but it also acts as a SQL skills showcase, demonstrating my ability to work with real-world-like retail data and extract insights efficiently.
+
 From practice to portfolio: showcasing what I can do with SQL and retail data.”
