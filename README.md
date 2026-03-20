@@ -27,6 +27,13 @@ What are the best-selling products?
 How do sales vary by month or city?
 Which customers place the most orders?
 
+## queries_screenshot
+<img width="1208" height="777" alt="Screenshot 2026-03-20 210321" src="https://github.com/user-attachments/assets/96a5409f-6c74-41ce-b6da-e3da19e1f78b" /<img width="1206" height="708" alt="Screenshot 2026-03-20 210426" src="https://github.com/user-attachments/assets/2d0b5374-3bdc-4d94-a85a-9864340f7de9" />
+<img width="1167" height="805" alt="Screenshot 2026-03-20 210443" src="https://github.com/user-attachments/assets/00dd523b-4c30-4d75-a5e8-8fc9180f8645" />
+<img width="1144" height="809" alt="Screenshot 2026-03-20 210504" src="https://github.com/user-attachments/assets/91f223a1-e6a7-463b-aa14-9a6da6553371" />
+<img width="1194" height="718" alt="Screenshot 2026-03-20 210601" src="https://github.com/user-attachments/assets/23c3b006-b87c-4474-aea6-edb547ba8db5" />
+
+
 ## ⚡ How to Run
 Clone this repository
 Open PostgreSQL / pgAdmin
